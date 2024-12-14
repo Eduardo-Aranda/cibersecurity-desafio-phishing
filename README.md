@@ -18,4 +18,8 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./running.jpeg "Optional title")
+
+![Alt text](./userlogin.jpeg "Optional title")
+
+![Alt text](./discoveredpassword.jpeg "Optional title")
